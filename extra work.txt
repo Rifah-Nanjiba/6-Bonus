@@ -1,0 +1,6 @@
+Name: Python for Data Science, AI & Development
+Issuing Organization: Coursera
+Issue Date: June 2021
+Expiration Date: This certification does not expire
+Credential ID: A86SLPKJYCTR
+Credential URL: https://www.coursera.org/account/accomplishments/certificate/A86SLPKJYCTR
